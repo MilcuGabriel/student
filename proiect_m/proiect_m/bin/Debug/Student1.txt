@@ -1,0 +1,6 @@
+1;Materia1;I;5
+2;Materia2;I;7
+3;Materia3;II;6
+4;Materia4;II;8
+5;Materia5;III;7
+6;Materia6;IV;7

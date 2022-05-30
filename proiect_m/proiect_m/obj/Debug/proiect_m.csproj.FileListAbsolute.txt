@@ -1,0 +1,11 @@
+C:\Users\gabi\source\repos\proiect_m\proiect_m\bin\Debug\proiect_m.exe.config
+C:\Users\gabi\source\repos\proiect_m\proiect_m\bin\Debug\proiect_m.exe
+C:\Users\gabi\source\repos\proiect_m\proiect_m\bin\Debug\proiect_m.pdb
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.csprojAssemblyReference.cache
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.Form1.resources
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.FormLogin.resources
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.Properties.Resources.resources
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.csproj.GenerateResource.cache
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.csproj.CoreCompileInputs.cache
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.exe
+C:\Users\gabi\source\repos\proiect_m\proiect_m\obj\Debug\proiect_m.pdb

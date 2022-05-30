@@ -1,0 +1,9 @@
+1;Prezentarea I;4;3/29/2021
+1;Prezentarea II;8;3/29/2021
+2;Prezentarea I;6;15/01/2013
+3;Prezentarea I;4;3/29/2021
+3;Prezentarea II;3;3/29/2020
+4;Prezentarea I;6;12/01/2015
+5;Prezentarea I;6;12/01/2014
+5;Prezentarea II;8;3/29/2021
+6;PrezentareaI;10; 3/29/2021
